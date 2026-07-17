@@ -12,3 +12,33 @@
 
 </body>
 </html>
+  
+
+
+
+
+
+
+
+
+Scale-Up-Marketing/
+│
+├── index.html
+├── about.html
+├── courses.html
+├── contact.html
+├── payment.html
+│
+├── css/
+│   ├── style.css
+│   ├── responsive.css
+│   └── animation.css
+│
+├── js/
+│   ├── script.js
+│   ├── particles.js
+│   └── hologram.js
+│
+├── images/
+├── videos/
+└── assets/
